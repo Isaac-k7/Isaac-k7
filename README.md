@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Isaac-k7
-- 👀 I’m interested in machine and artificial intelligence
+- 👀 I'm interested in machines and artificial intelligence
 - 🌱 I’m currently learning augmanted reality with unity 
 - 💞️ I’m looking to collaborate on the subject concern machine learning and augmented reality
 - 📫 You can reach me by my e-mail at : isaac07.ik@gmail.com
